@@ -1,0 +1,6 @@
+github.com/takunnithan/html_link_parser v0.0.0-20230211194355-3f7abd40fe3d h1:BNWeNF6GU9GJRyQDoH0Xhp2zxg9GkGHMmoKibYMkzFo=
+github.com/takunnithan/html_link_parser v0.0.0-20230211194355-3f7abd40fe3d/go.mod h1:h83s907zYF666NGFeyHScS0jA1ZbPbNUntN2nzzPrq8=
+github.com/takunnithan/html_link_parser v0.0.0-20230218202739-9a4dbd97fb08 h1:68YzrsPKLmu891C0B8Qe6VdrfroC/+x+LpQaAlJ9sv4=
+github.com/takunnithan/html_link_parser v0.0.0-20230218202739-9a4dbd97fb08/go.mod h1:h83s907zYF666NGFeyHScS0jA1ZbPbNUntN2nzzPrq8=
+golang.org/x/net v0.6.0 h1:L4ZwwTvKW9gr0ZMS1yrHD9GZhIuVjOBBnaKH+SPQK0Q=
+golang.org/x/net v0.6.0/go.mod h1:2Tu9+aMcznHK/AK1HMvgo6xiTLG5rD5rZLDS+rp2Bjs=
